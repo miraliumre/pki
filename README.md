@@ -77,9 +77,9 @@ establishing the trust of a leaf certificate.
 
 ## Distribution
 
-Root and leaf CA certificates, along with their CRLs, are distributed through
-the GitHub repository. Updates to the list of trusted root and leaf CAs, as well
-as CRLs, SHALL be committed to the master branch of the repository.
+Root and leaf CA certificates are distributed through the GitHub repository.
+Updates to the list of trusted root and leaf CAs SHALL be committed to the
+master branch of the repository.
 
 ## Certificate Structure
 
